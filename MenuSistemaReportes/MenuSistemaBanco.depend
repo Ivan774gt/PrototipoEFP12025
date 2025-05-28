@@ -1,0 +1,463 @@
+# depslib dependency file v1.0
+1747772873 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\bancos.cpp
+	"Bancos.h"
+	"Moneda.h"
+	"Cuentas.h"
+	<iostream>
+
+1747772873 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\bancos.h
+	<string>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747839138 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\bitacora.h
+	<string>
+
+1747772873 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\moneda.h
+	"Bitacora.h"
+	<string>
+
+1747772873 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\cuentas.h
+	<string>
+	"Bitacora.h"
+
+1747839231 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\bitacora.cpp
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstring>
+
+1747772873 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\cuentas.cpp
+	"Cuentas.h"
+	<iostream>
+
+1747786769 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\empleados.cpp
+	"Empleados.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	<limits>
+
+1747786767 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\empleados.h
+	<vector>
+	<string>
+	"Bitacora.h"
+
+1747772873 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\moneda.cpp
+	"Moneda.h"
+	"Bitacora.h"
+	<iostream>
+
+1747772873 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\proveedores.cpp
+	"Proveedores.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+
+1747772873 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\proveedores.h
+	<string>
+	<vector>
+
+1747838230 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Empleados.h"
+	"Cliente.h"
+	"Proveedores.h"
+	"Contabilidad.h"
+	"Auditoria.h"
+	"Usuario.h"
+	<conio.h>
+	"Nominas.h"
+	"Bitacora.h"
+	"Bancos.h"
+	"Moneda.h"
+	<limits>
+
+1747838230 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\cliente.h
+	<string>
+	<vector>
+	<cstring>
+	<fstream>
+
+1747838230 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\contabilidad.h
+	<iostream>
+	<fstream>
+	<string>
+	"Bitacora.h"
+
+1747838230 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\auditoria.h
+	<string>
+	<vector>
+	"Bitacora.h"
+
+1747838230 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\usuario.h
+	"Bitacora.h"
+	<string>
+
+1747779208 c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\include\nominas.h
+	<string>
+	<vector>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747838230 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\auditoria.cpp
+	"Auditoria.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	"Bitacora.h"
+	<cstdlib>
+
+1747838230 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\cliente.cpp
+	"Cliente.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1747838230 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\contabilidad.cpp
+	"Contabilidad.h"
+	<vector>
+	<sstream>
+	<map>
+	<iomanip>
+	<algorithm>
+	<cstring>
+	"Bitacora.h"
+	"Moneda.h"
+	<cstdlib>
+
+1747838230 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\nominas.cpp
+	"Nominas.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	"Moneda.h"
+	<string>
+	<stdexcept>
+
+1747838230 source:c:\users\deleo\onedrive\documentos\github\prueba equipo 5(2)\nueva carpeta (2)\menusistemabanco\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\auditoria.cpp
+	"Auditoria.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	"Bitacora.h"
+	<cstdlib>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\auditoria.h
+	<string>
+	<vector>
+	"Bitacora.h"
+
+1747839138 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\bitacora.h
+	<string>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\bancos.cpp
+	"Bancos.h"
+	"Moneda.h"
+	"Cuentas.h"
+	<iostream>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\bancos.h
+	<string>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\moneda.h
+	"Bitacora.h"
+	<string>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\cuentas.h
+	<string>
+	"Bitacora.h"
+
+1747839231 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\bitacora.cpp
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstring>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\cliente.cpp
+	"Cliente.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\cliente.h
+	<string>
+	<vector>
+	<cstring>
+	<fstream>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\contabilidad.cpp
+	"Contabilidad.h"
+	<vector>
+	<sstream>
+	<map>
+	<iomanip>
+	<algorithm>
+	<cstring>
+	"Bitacora.h"
+	"Moneda.h"
+	<cstdlib>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\contabilidad.h
+	<iostream>
+	<fstream>
+	<string>
+	"Bitacora.h"
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\cuentas.cpp
+	"Cuentas.h"
+	<iostream>
+
+1747786769 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\empleados.cpp
+	"Empleados.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	<limits>
+
+1747786767 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\empleados.h
+	<vector>
+	<string>
+	"Bitacora.h"
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\moneda.cpp
+	"Moneda.h"
+	"Bitacora.h"
+	<iostream>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\nominas.cpp
+	"Nominas.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	"Moneda.h"
+	<string>
+	<stdexcept>
+
+1747779208 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\nominas.h
+	<string>
+	<vector>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\proveedores.cpp
+	"Proveedores.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\proveedores.h
+	<string>
+	<vector>
+
+1748447437 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\include\usuario.h
+	"Bitacora.h"
+	<string>
+
+1748447633 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabanco\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Empleados.h"
+	"Cliente.h"
+	"Proveedores.h"
+	"Contabilidad.h"
+	"Auditoria.h"
+	"Usuario.h"
+	<conio.h>
+	"Nominas.h"
+	"Bitacora.h"
+	"Bancos.h"
+	"Moneda.h"
+	<limits>
+
+1748448529 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Empleados.h"
+	"Cliente.h"
+	"Proveedores.h"
+	"Contabilidad.h"
+	"Auditoria.h"
+	"Usuario.h"
+	<conio.h>
+	"Nominas.h"
+	"Bitacora.h"
+	"Bancos.h"
+	"Moneda.h"
+	<limits>
+
+1747786767 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\empleados.h
+	<vector>
+	<string>
+	"Bitacora.h"
+
+1747839138 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\bitacora.h
+	<string>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\cliente.h
+	<string>
+	<vector>
+	<cstring>
+	<fstream>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\proveedores.h
+	<string>
+	<vector>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\contabilidad.h
+	<iostream>
+	<fstream>
+	<string>
+	"Bitacora.h"
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\auditoria.h
+	<string>
+	<vector>
+	"Bitacora.h"
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\usuario.h
+	"Bitacora.h"
+	<string>
+
+1747779208 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\nominas.h
+	<string>
+	<vector>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\moneda.h
+	"Bitacora.h"
+	<string>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\bancos.h
+	<string>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\auditoria.cpp
+	"Auditoria.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	"Bitacora.h"
+	<cstdlib>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\bancos.cpp
+	"Bancos.h"
+	"Moneda.h"
+	"Cuentas.h"
+	<iostream>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\include\cuentas.h
+	<string>
+	"Bitacora.h"
+
+1747839231 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\bitacora.cpp
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstring>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\cliente.cpp
+	"Cliente.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\contabilidad.cpp
+	"Contabilidad.h"
+	<vector>
+	<sstream>
+	<map>
+	<iomanip>
+	<algorithm>
+	<cstring>
+	"Bitacora.h"
+	"Moneda.h"
+	<cstdlib>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\cuentas.cpp
+	"Cuentas.h"
+	<iostream>
+
+1747786769 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\empleados.cpp
+	"Empleados.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	<limits>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\moneda.cpp
+	"Moneda.h"
+	"Bitacora.h"
+	<iostream>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\nominas.cpp
+	"Nominas.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	"Moneda.h"
+	<string>
+	<stdexcept>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\proveedores.cpp
+	"Proveedores.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+
+1748447437 source:c:\users\deleo\onedrive\desktop\examen final\menusistemamenugeneral\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+
