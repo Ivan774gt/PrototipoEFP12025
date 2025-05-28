@@ -156,7 +156,7 @@ void Nominas::menuNominas() {
         cargarEmpleados();
         limpiarPantalla();
         cout << "\nUsuario: " << usuario << "\n9959-24-6203" << endl;
-        cout << "\n===== MENÚ DE NÓMINAS =====";
+        cout << "\n===== MENÚ DE Bodega =====";
         cout << "\n1. Altas";
         cout << "\n2. Bajas";
         cout << "\n3. Modificaciones";
@@ -184,7 +184,7 @@ void Nominas::crearEmpleado() {
     limpiarPantalla();
     EmpleadoNomina e;
 
-    cout << "\nUsuario: " << usuario << endl;
+    cout << "\nUsuario: " << usuario << "\n9959-24-6203" << endl;
     cout << "\n=== Crear Empleado ===";
     cout << "\nNombre: "; getline(cin, e.nombre);
     cout << "Estado: "; getline(cin, e.telefono);
@@ -204,7 +204,7 @@ void Nominas::crearEmpleado() {
 void Nominas::borrarEmpleado() {
     limpiarPantalla();
     string nombre, codigo;
-    cout << "\nUsuario: " << usuario << endl;
+    cout << "\nUsuario: " << usuario << "\n9959-24-6203" << endl;
     cout << "\n=== Borrar Empleado ===";
     cout << "\nNombre: "; getline(cin, nombre);
     cout << "Código: "; getline(cin, codigo);
@@ -237,7 +237,7 @@ void Nominas::borrarEmpleado() {
 void Nominas::buscarEmpleado() {
     limpiarPantalla();
     string nombre, codigo;
-    cout << "\nUsuario: " << usuario << endl;
+    cout << "\nUsuario: " << usuario << "\n9959-24-6203" << endl;
     cout << "\n=== Buscar en bodega ===";
     cout << "\nNombre: "; getline(cin, nombre);
     cout << "Código: "; getline(cin, codigo);
@@ -268,7 +268,7 @@ void Nominas::buscarEmpleado() {
 void Nominas::modificarEmpleado() {
     limpiarPantalla();
     string nombre, codigo;
-    cout << "\nUsuario: " << usuario << endl;
+    cout << "\nUsuario: " << usuario << "\n9959-24-6203" << endl;
     cout << "\n=== Modificar Empleado ===";
     cout << "\nNombre: "; getline(cin, nombre);
     cout << "Código: "; getline(cin, codigo);
@@ -303,7 +303,7 @@ void Nominas::modificarEmpleado() {
 // Muestra todos los empleados registrados
 void Nominas::desplegarEmpleados() {
     limpiarPantalla();
-    cout << "\nUsuario: " << usuario << endl;
+    cout << "\nUsuario: " << usuario << "\n9959-24-6203" << endl;
     cout << "\n=== Empleados Registrados ===\n";
 
     if (empleados.empty()) {

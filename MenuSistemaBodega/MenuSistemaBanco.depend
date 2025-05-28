@@ -771,3 +771,159 @@
 
 1748450731 source:c:\users\deleo\onedrive\desktop\examen final\menusistemaseguridad\src\altas.cpp
 
+1748450751 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Empleados.h"
+	"Cliente.h"
+	"Proveedores.h"
+	"Contabilidad.h"
+	"Auditoria.h"
+	"Usuario.h"
+	<conio.h>
+	"Bodega-9959-24-6203.h"
+	"Bitacora.h"
+	"Bancos.h"
+	"Moneda.h"
+	<limits>
+
+1747786767 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\empleados.h
+	<vector>
+	<string>
+	"Bitacora.h"
+
+1747839138 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\bitacora.h
+	<string>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\cliente.h
+	<string>
+	<vector>
+	<cstring>
+	<fstream>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\proveedores.h
+	<string>
+	<vector>
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\contabilidad.h
+	<iostream>
+	<fstream>
+	<string>
+	"Bitacora.h"
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\auditoria.h
+	<string>
+	<vector>
+	"Bitacora.h"
+
+1747838230 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\usuario.h
+	"Bitacora.h"
+	<string>
+
+1748450699 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\bodega-9959-24-6203.h
+	<string>
+	<vector>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\moneda.h
+	"Bitacora.h"
+	<string>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\bancos.h
+	<string>
+	"Bitacora.h"
+	"Moneda.h"
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\auditoria.cpp
+	"Auditoria.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	"Bitacora.h"
+	<cstdlib>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\bancos.cpp
+	"Bancos.h"
+	"Moneda.h"
+	"Cuentas.h"
+	<iostream>
+
+1747772873 c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\include\cuentas.h
+	<string>
+	"Bitacora.h"
+
+1747839231 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\bitacora.cpp
+	"Bitacora.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstring>
+
+1748451138 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\bodega-9959-24-6203.cpp
+	"Bodega-9959-24-6203.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	"Moneda.h"
+	<string>
+	<stdexcept>
+
+1748449934 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\cliente.cpp
+	"Cliente.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1747838230 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\contabilidad.cpp
+	"Contabilidad.h"
+	<vector>
+	<sstream>
+	<map>
+	<iomanip>
+	<algorithm>
+	<cstring>
+	"Bitacora.h"
+	"Moneda.h"
+	<cstdlib>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\cuentas.cpp
+	"Cuentas.h"
+	<iostream>
+
+1748449351 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\empleados.cpp
+	"Empleados.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+	<limits>
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\moneda.cpp
+	"Moneda.h"
+	"Bitacora.h"
+	<iostream>
+
+1748449689 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\nominas.cpp
+
+1747772873 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\proveedores.cpp
+	"Proveedores.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+
+1748447437 source:c:\users\deleo\onedrive\desktop\examen final\menusistemabodega\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+

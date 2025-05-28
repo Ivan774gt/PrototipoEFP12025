@@ -1,0 +1,68 @@
+commit 138689a397562e4e2f1e7b37de262b0eb0ed25d6
+Merge: 7b51cb9 4671883
+Author: Boris de Leon <50037610+Ivan774gt@users.noreply.github.com>
+Date:   Wed May 28 10:57:26 2025 -0600
+
+    Merge pull request #3 from Ivan774gt/RamaCRUD-9959-24-6203
+    
+    Se agrega el crud bodega
+
+commit 7b51cb9e91093aa514e840b276df586aa44d1f6a
+Merge: 1accb76 41215d0
+Author: Boris de Leon <50037610+Ivan774gt@users.noreply.github.com>
+Date:   Wed May 28 10:56:56 2025 -0600
+
+    Merge pull request #2 from Ivan774gt/RamaSeguridad-9959-24-6203
+    
+    Se agrega la bitacora
+
+commit 1accb76796b904ca3556f40498a853dfa66485c3
+Merge: 96d852e b22e689
+Author: Boris de Leon <50037610+Ivan774gt@users.noreply.github.com>
+Date:   Wed May 28 10:56:08 2025 -0600
+
+    Merge pull request #1 from Ivan774gt/MenuSistemaReportes-9959-24-6203
+    
+    Se agregan los reportes
+
+commit 46718834e0cb14fceefc2f205f8841069572e765
+Author: Ivan774gt <deleonboris6@gmail.com>
+Date:   Wed May 28 10:54:59 2025 -0600
+
+    Se agrega el crud bodega
+
+commit 41215d075e24473e0700bd0b82b8560381e39099
+Author: Ivan774gt <deleonboris6@gmail.com>
+Date:   Wed May 28 10:42:47 2025 -0600
+
+    Se agrega la bitacora
+
+commit b22e689100b9462d7c121f9bd2dd97cac6d96219
+Author: Ivan774gt <deleonboris6@gmail.com>
+Date:   Wed May 28 10:19:52 2025 -0600
+
+    Se agregan los reportes
+
+commit 96d852e9c78d6d5bffd45325491e0a85b625b697
+Author: Ivan774gt <deleonboris6@gmail.com>
+Date:   Wed May 28 10:01:01 2025 -0600
+
+    Se sube primera version
+
+commit 7966d7552bbfb2e14472e6aaf7b811e1e71c8f75
+Author: Ivan774gt <deleonboris6@gmail.com>
+Date:   Wed May 28 09:47:52 2025 -0600
+
+    Se sube archivo txt de prueba
+
+commit e05275b56c3eef8a1b8703db643bfaf2cd0d5659
+Author: Ivan774gt <deleonboris6@gmail.com>
+Date:   Wed May 28 09:46:48 2025 -0600
+
+    se sube un archivo de prueba
+
+commit 800c38cf9bbe8e673c98c5a9bf2f445c50663518
+Author: Boris de Leon <50037610+Ivan774gt@users.noreply.github.com>
+Date:   Wed May 28 09:45:22 2025 -0600
+
+    Initial commit
