@@ -1,0 +1,16 @@
+#ifndef RAMACRUD_CATALOGOX-9959-24-6203_H
+#define RAMACRUD_CATALOGOX-9959-24-6203_H
+
+
+class RamaCRUD_CATALOGOX-9959-24-6203
+{
+    public:
+        RamaCRUD_CATALOGOX-9959-24-6203();
+        virtual ~RamaCRUD_CATALOGOX-9959-24-6203();
+
+    protected:
+
+    private:
+};
+
+#endif // RAMACRUD_CATALOGOX-9959-24-6203_H
